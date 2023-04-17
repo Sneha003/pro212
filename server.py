@@ -66,7 +66,6 @@ def setup():
     acceptConnections()
 
 
-#------ Student Activity 1 Start---------------
 def ftp():
     global IP_ADDRESS
 
